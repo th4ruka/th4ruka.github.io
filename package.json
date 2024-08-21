@@ -1,8 +1,8 @@
 {
-  "name": "simplefolio",
+  "name": "Tharuka Pavith's portfolio",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "My portfolio website",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobiwave/simplefolio"
+    "url": "git+https://github.com/th4ruka/th4ruka.github.io"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
-  "license": "ISC",
+  "author": "Tharuka Pavith",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cobiwave/simplefolio/issues"
+    "url": "https://github.com/th4ruka/th4ruka.github.io/issues"
   },
-  "homepage": "https://github.com/cobiwave/simplefolio#readme",
+  "homepage": "https://github.com/th4ruka/th4ruka.github.io#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.2",
     "parcel": "^2.8.2",
