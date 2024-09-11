@@ -20,12 +20,13 @@
 
   // If you want to set a background image on the hero section, uncomment these with your custom image
 
-  /* background: url("/src/assets/[your-image].png");
+  background: url("/src/assets/file2.png");
   background-position: center;
-  background-size: cover; */
+  background-size: cover;
 
   @include respond(phone) {
     padding: 0rem $default-font-size;
+    background: none;
   }
 
   .hero-title {
@@ -39,7 +40,7 @@
     }
     @include respond(tab-port) {
       font-size: 3.6rem;
-      text-align: center;
+      // text-align: center;
     }
     @include respond(phone) {
       font-size: 3.5rem;
@@ -54,7 +55,7 @@
     display: flex;
 
     @include respond(tab-port) {
-      justify-content: center;
+      // justify-content: center;
     }
 
     & a {
